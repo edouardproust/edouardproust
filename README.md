@@ -1,5 +1,5 @@
 # Hello!
-I am Edouard, a full-stack developer.
+I am Edouard, a **full-stack** developer, specialized in **web development**.
 - **PHP**, **javascript** and **C** languages
 - **Symphony** and **React** x **Redux** frameworks
 - **Harvard certification** in Computer Sciences
