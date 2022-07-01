@@ -1,6 +1,11 @@
 # Hello!
 
-I am Edouard, a full-stack developer. I code in PHP, javascript (and some C), and I use the Symphony 5 and React / Redux framework. [See my complete tech-stack](https://edouardproust.dev/about). I am also an Ecommerce expert (2 years experience) and entrepreneur. 
+I am Edouard, a full-stack developer. 
+- PHP, javascript languages (and some C)
+- Symphony 5 and React / Redux frameworks. 
+- See my complete tech-stack [here](https://edouardproust.dev/about). 
+
+- I am also an Ecommerce expert (2 years experience) and an entrepreneur
 
 ## Projects
 All my projects are listed, illustrated and explained on [my portfolio](www.edouardproust.dev/portfolio). The code is open source, available on my Github account.
