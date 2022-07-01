@@ -11,4 +11,4 @@ And see all my tech-stack [here](https://edouardproust.dev/about)! You can also 
 All my projects are listed, illustrated and explained on [my portfolio](https://edouardproust.dev/portfolio). The code is open source, available on my Github account.
 
 ## Contact Me
-You can reach me anytime at contact@edouardproust.dev.
+You can reach me anytime on [Linkedin](https://www.linkedin.com/in/edouardproust) or by [email](mailto:contact@edouardproust.dev).
