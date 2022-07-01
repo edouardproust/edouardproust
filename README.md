@@ -3,7 +3,9 @@
 **I am Edouard, a full-stack developer.**
 - PHP, javascript languages (and some C)
 - Symphony 5 and React / Redux frameworks. 
+- Harvard certification in Computer Sciences
 - See my complete tech-stack [here](https://edouardproust.dev/about). 
+- 
 I am also an Ecommerce expert (2 years experience) and an entrepreneur.
 
 📃 [CV](https://github.com/edouardproust/edouardproust/blob/main/CV_web-developer_2022-05-29-min.pdf)
