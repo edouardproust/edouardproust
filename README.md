@@ -4,7 +4,7 @@
 - **PHP**, **javascript** and **C** languages
 - **Symphony** and **React** x **Redux** frameworks
 - **Harvard certification** in Computer Sciences
-- **Ecommerce** expert (2 years experience) and an **entrepreneur**.
+- **Ecommerce** expert (2 years experience) and **entrepreneur**.
 - See my complete tech-stack [here](https://edouardproust.dev/about). 
 
 📃 [CV](https://github.com/edouardproust/edouardproust/blob/main/CV_web-developer_2022-05-29-min.pdf)
