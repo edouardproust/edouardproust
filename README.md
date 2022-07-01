@@ -8,6 +8,7 @@ I am Edouard, a full-stack developer.
 
 ---
 💡 [**All my projects: www.edouardproust.dev**](www.edouardproust.dev/portfolio)
+
 📃 [See my CV](https://github.com/edouardproust/edouardproust/blob/main/CV_web-developer_2022-05-29-min.pdf)
 
 ## Contact Me
