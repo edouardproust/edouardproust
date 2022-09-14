@@ -16,12 +16,5 @@ All my projects are listed, illustrated and explained on [my portfolio](https://
 You can reach me anytime on [Linkedin](https://www.linkedin.com/in/edouardproust) or by [email](mailto:contact@edouardproust.dev).
 
 <a href="User Edouard">
-   <img 
-      src="https://stackoverflow.com/users/flair/13865643.png" 
-      width="208" 
-      height="58" 
-      alt="profile for Edouard at Stack Overflow, Q&amp;A for professional and 
-      enthusiast programmers" 
-      title="profile for Edouard at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
-   >
+   <img src="https://stackoverflow.com/users/flair/13865643.png" width="208" height="58" alt="profile for Edouard at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Edouard at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
