@@ -2,7 +2,7 @@
 I am Edouard, a **full-stack** developer, specialized in **web development**.
 - **PHP**, **Javascript**, **Python** and **C** languages
 - **Symphony** and **React** x **Redux** frameworks
-- **Harvard certification** in Computer Science
+- **Harvard certification** in Computer Science ((View certificate)[https://cs50.harvard.edu/certificates/2baa0f19-ff07-4f3e-8f63-5cd01820234d.pdf?size=A4])
 - **Ecommerce** expert (2 years experience) and **entrepreneur**
 
 And see all my tech-stack [here](https://edouardproust.dev/about)! You can also have a look at my [CV](https://github.com/edouardproust/edouardproust/blob/main/CV_web-developer_2022-05-29-min.pdf).
