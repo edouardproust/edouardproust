@@ -5,7 +5,7 @@ I am Edouard, a **full-stack** developer, specialized in **web development**.
 - **Harvard certification** in Computer Science ([view certificate](https://cs50.harvard.edu/certificates/2baa0f19-ff07-4f3e-8f63-5cd01820234d.pdf?size=A4))
 - **Ecommerce** expert (2 years experience) and **entrepreneur**
 
-And see all my tech-stack [here](https://edouardproust.dev/about)! You can also have a look at my [CV](https://github.com/edouardproust/edouardproust/blob/main/CV_web-developer_2022-10-06.pdf).
+And see all my tech-stack [here](https://edouardproust.dev/about)! You can also have a look at my [CV](https://github.com/edouardproust/edouardproust/blob/main/CV_web-developer_latest.pdf).
 
 ![image](https://user-images.githubusercontent.com/45925914/176992037-f3de1c6a-8b28-4df6-9fe7-1560469e80cc.png)
 
