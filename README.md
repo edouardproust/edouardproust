@@ -15,4 +15,4 @@ You can reach me anytime on [Linkedin](https://www.linkedin.com/in/edouardproust
 
 ## Community
 - <a href="https://stackoverflow.com/users/13865643/edouard"><img src="https://stackoverflow.com/users/flair/13865643.png?theme=dark" width="208" height="58" alt="profile for Edouard at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Edouard at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-- <a href="https://www.freecodecamp.org/edouardproust">FreeCodeCamp profile</a>
+- <a href="https://www.freecodecamp.org/edouardproust">FreeCodeCamp</a>
