@@ -16,5 +16,5 @@ You can reach me anytime on [Linkedin](https://www.linkedin.com/in/edouardproust
 ## Community
 - <a href="https://stackoverflow.com/users/13865643/edouard"><img src="https://stackoverflow.com/users/flair/13865643.png?theme=dark" width="208" height="58" alt="profile for Edouard at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Edouard at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 - <a href="https://www.freecodecamp.org/edouardproust">FreeCodeCamp</a>
-- <a href="https://www.hackerrank.com/sygnoshop">HackerRank.com</a>
+- <a href="https://www.hackerrank.com/edouardproust">HackerRank.com</a>
 - <a href="https://www.codingame.com/profile/d90e9b77e93e0dea16a55e4786bc959d3778415">CodinGame.com</a>
